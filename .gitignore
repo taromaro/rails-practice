@@ -39,8 +39,9 @@
 
 /node_modules
 
-# 追加
-/config/database.yml
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-*
+
+# 追加
+railsapp/config/database.yml
